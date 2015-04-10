@@ -2,3 +2,6 @@ A test file.
 With some changes.
 
 ... and another change made 'after' the initial pull request.
+// Adding a new line at the end of the file.
+// Also noticed that on-line editing provide indentation of 2, 4 or 8 spaces, but not 3 spaces!
+
